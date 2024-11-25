@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.ambiguousdino.app"},{"l":"com.ambiguousdino.datastructures.api"},{"l":"com.ambiguousdino.datastructures.implementation.list"},{"l":"com.ambiguousdino.datastructures.implementation.tree"}];updateSearchResults();
